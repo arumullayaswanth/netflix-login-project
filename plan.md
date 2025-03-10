@@ -1,4 +1,4 @@
-January 14, 2021
+January 14, 2024
 - Create a wishilist
 - Add the ability to add to a wishlist 
 Back End
@@ -18,12 +18,12 @@ Front End
 - Fetch the wishlist data from API 
 
 
-Dec 3, 2020
+Dec 3, 2024
 - Keep the user logged in
 - Create a Register Page
 - Complete the API for Registration
 
-Nov 26, 2020
+Nov 26, 2024
 
 - Create a Login Form 
 - Grab the data
