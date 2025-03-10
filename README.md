@@ -20,7 +20,7 @@ Backend (Optional): Node.js, Express, Firebase Authentication
 Deployment: GitHub Pages / Vercel / Netlify                                                                                                                                                                                                         
 
 # 🚀 Setup & Installation                                                                                                                                                                                                                          
-Clone the repository: git clone https://github.com/yourusername/netflix-login-clone.git                                                                                                                                                             
+Clone the repository: git clone https://github.com/arumullayaswanth/netflix-login-project.git                                                                                                                                                       
 Open index.html in a browser or use Live Server in VS Code.
 
 # 🔧 Future Enhancements                                                                                                                                                                                                                           
